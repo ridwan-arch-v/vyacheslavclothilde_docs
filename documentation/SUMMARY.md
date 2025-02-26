@@ -1,58 +1,41 @@
 ****# Table of Contents
 
 * [vyacheslavclothilde](README.md)
-  <details>
-    <summary>vyacheslavclothilde</summary>
     * [About-Me](./resources/vyacheslavclothilde/aboutme/README.md)
     * [what-is-This](./resources/vyacheslavclothilde/whatisthis/README.md)
     * [My-Project](./resources/vyacheslavclothilde/myproject/README.md)
-  </details>
+  
 
 * [MyRepository](myrepository.md)
-  <details>
-    <summary>My-Repository</summary>
-    * vyacheslavclothilde-backend-lern
-    * vyacheslavclothilde-excel-lenr
-  </details>
+    * [vyacheslavclothilde-backend-lern](./resources/MyRepository/vyacheslavclothilde-backend-lern/README.md)
+    * [vyacheslavclothilde-excel-lenr](./resources/MyRepository/vyacheslavclothilde-excel-lenr/README.md)
+  
 
 * [MyAPIS](myapis.md)
-  <details>
-    <summary>My API</summary>
-    * Discord
-    * Telegram
-  </details>
+    * [Discord](./resources/MyAPIS/discord/README.md)
+    * [Telegram](./resources/MyAPIS/telegram/README.md)
+  
 
 * [MyImages](myimages.md)
-  <details>
-    <summary>My-Images</summary>
-    * MyLogoAndCover
-  </details>
+    * [backgound_type_repository](./resources/MyImages/backgound_type_repository/README.md)
+  
 
 * [MyTools](mytools.md)
-  <details>
-    <summary>MyTools</summary>
-    * Files-convert
-    * gitTools
-    * FilesTools
-  </details>
+    * [Files-convert](./resources/MyTools/Files-convert/README.md)
+    * [gitTools](./resources/MyTools/gitTools/README.md)
+    * [FilesTools](./resources/MyTools/FilesTools/README.md)
+  
 
 * [MySite](mysite.md)
-  <details>
-    <summary>MySite</summary>
-    * Portofolio
-    * MyProjectPlaner
-  </details>
+    * [Portofolio](./resources/MySite/Portofolio/README.md)
+    * [MyProjectPlaner](./resources/MySite/MyProjectPlaner/README.md)
+  
 
 * [Other information](other-information.md)
-  <details>
-    <summary>Other</summary>
-    * Github_Account
-    * Server_discord
-  </details>
+    * [Github-Account](./resources/other-information/Github-Account/README.md)
+    * [Server-discord](./resources/other-information/Server-discord/README.md)
+  
 
 * [Contact me](contact-me.md)
-  <details>
-    <summary>Sub-Items</summary>
-    * Email
-    * Github_Discussion
-  </details>
+    * [Email](./resources/contact-me/Email/README.md)
+    * [Github-Discussion](./resources/contact-me/Github-Discussion/README.md) 
