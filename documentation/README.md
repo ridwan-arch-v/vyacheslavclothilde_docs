@@ -19,9 +19,3 @@ layout:
 ---
 
 # vyacheslavclothilde
-
-
-
-```
-// Some code
-```
